@@ -1,0 +1,32 @@
+body{
+    background-color: #999999;
+}
+
+h1 {
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    font-size: 255x;
+}
+
+/* Isto é
+linha 2
+linha 3
+um comentário */
+
+
+.texto1 {
+    color: red;
+}
+
+#texto2{
+    color: blue;
+}
+
+p{
+    color: white
+}
+
+#alinhamento{
+    text-align: right;
+}

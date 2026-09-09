@@ -1,0 +1,19 @@
+.all{
+    background-color: yellow;
+    display: flex;
+}
+
+.info{
+    background-color: red;
+    width: 50%;
+
+}
+
+.img{
+    background-color: blue;
+    width: 50%;
+}
+
+img {
+    width:100%;
+}
