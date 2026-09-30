@@ -1,19 +1,50 @@
 .all{
-    background-color: yellow;
+    background-color: white;
     display: flex;
 }
 
+.esquerda{
+    width: 0%;
+}
+
 .info{
-    background-color: red;
-    width: 50%;
+    background-color: white;
+    
+}
+
+.sinopse{
 
 }
 
+
+.info_img{
+    width: 20%;
+    background-color: white;
+}
+
+.img_info{
+    width: 80%;
+}
+
+
+.direita{
+    width: 100%;
+}
+
+
+img {
+    width:100%;
+}
 .img{
     background-color: blue;
     width: 50%;
 }
 
-img {
-    width:100%;
+
+table{
+    color: red
 }
+td{
+    vertical-align: top;
+}
+
